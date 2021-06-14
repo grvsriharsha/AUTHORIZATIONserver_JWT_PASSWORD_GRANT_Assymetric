@@ -1,4 +1,4 @@
-package com.bharath.springcloud.security.config;
+package com.bharath.springcloud.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
